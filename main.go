@@ -4,6 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"github.com/cheneylew/goutil/utils"
+	"github.com/go-xorm/xorm"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 var DB = make(map[string]string)
@@ -67,7 +69,14 @@ func setupRouter() *gin.Engine {
 	return r
 }
 
+func testXorm()  {
+	engine, err := xorm.NewEngine("sqlite3", "./test.db")
+	utils.JJKPrintln(engine, err)
+}
+
 func main() {
+	testXorm()
+
 	r := setupRouter()
 	// Listen and Server in 0.0.0.0:8080
 	r.Run(":8080")

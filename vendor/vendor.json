@@ -105,6 +105,30 @@
 			"versionExact": "v1.2"
 		},
 		{
+			"checksumSHA1": "W+IoIME5mgWjwU+dOlh3DZEZEN4=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "749ddf1598b47e3cd909414bda735fe790ef3d30",
+			"revisionTime": "2018-06-18T11:59:01Z"
+		},
+		{
+			"checksumSHA1": "1LwCWFytWPHl5T/l404lasMTOmI=",
+			"path": "github.com/go-xorm/builder",
+			"revision": "dc8bf48f58fab2b4da338ffd25191905fd741b8f",
+			"revisionTime": "2018-07-10T01:56:10Z"
+		},
+		{
+			"checksumSHA1": "9nJmaqeYoDD1aqAX3CRNxVeOFI8=",
+			"path": "github.com/go-xorm/core",
+			"revision": "c10e21e7e1cec20e09398f2dfae385e58c8df555",
+			"revisionTime": "2018-05-04T05:52:46Z"
+		},
+		{
+			"checksumSHA1": "v9bhR7/43S4a9SUPK8gAaZvlvwg=",
+			"path": "github.com/go-xorm/xorm",
+			"revision": "ad69f7d8f0861a29438154bb0a20b60501298480",
+			"revisionTime": "2018-07-11T00:59:00Z"
+		},
+		{
 			"checksumSHA1": "ag4CscDKi8ZBExU8jJf03rxonF0=",
 			"path": "github.com/golang/protobuf/proto",
 			"revision": "70b3af33377e7aa25ae42977bed93cc6b90f0373",
@@ -133,6 +157,12 @@
 			"path": "github.com/mattn/go-isatty",
 			"revision": "6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c",
 			"revisionTime": "2017-11-07T05:05:31Z"
+		},
+		{
+			"checksumSHA1": "yzN9Xevf9xfTZ6pTtLBM/KPYlAU=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "3aefd9f0a162514f66d0e4ceda3edc44e66b502e",
+			"revisionTime": "2018-06-30T19:54:21Z"
 		},
 		{
 			"checksumSHA1": "r5eQHkttko6kxroDEENXbmXKrSs=",
@@ -178,6 +208,10 @@
 		},
 		{
 			"path": "golang.org/x/sys/unix",
+			"revision": ""
+		},
+		{
+			"path": "google.golang.org/appengine/cloudsql",
 			"revision": ""
 		},
 		{
