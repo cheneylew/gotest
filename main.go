@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
+	"net/http"
 )
 
 var DB = make(map[string]string)
@@ -51,6 +52,10 @@ func setupRouter() *gin.Engine {
 			DB[user] = json.Value
 			c.JSON(200, gin.H{"status": "ok"})
 		}
+	})
+
+	r.GET("/test", func(c *gin.Context) {
+		c.Redirect(http.StatusMovedPermanently, "http://www.google.com/")
 	})
 
 	return r
