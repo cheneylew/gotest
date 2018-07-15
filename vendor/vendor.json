@@ -1,0 +1,133 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "qVneW2MbX+WhIrBaGlWH/J2SbnQ=",
+			"path": "github.com/astaxie/beego",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "zgHK1vxUJDZTXAPCw+Bls7St0Ks=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "9/NGkrfm/Kk+lFI3AVOJ1euD+a4=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "iHY0XMPlj5EfCxMN4NEmvBgdhDM=",
+			"path": "github.com/astaxie/beego/context/param",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "N5kHk4qbc10N2Lp9ltA2G76qNxs=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "QwvGCt0X6Z8EvhUTygvCS80wswg=",
+			"path": "github.com/astaxie/beego/httplib",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "ochJai7DifamCfjDhMQGZYrqrDE=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "EDaMYv6yHO6Xu9J8loeGIUOvGoE=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "EOoY9qbCsWnu5FlZZnMKUKkLcMk=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "W7HBzu7HlF18vCfNPgax7xvHXB0=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "bf5c5626ab429e66d88602e1ab1ab5fbf4629a01",
+			"revisionTime": "2017-12-06T15:37:36Z"
+		},
+		{
+			"checksumSHA1": "JMsHU0A9OzrUKRG43Ifme2PnYEY=",
+			"path": "github.com/cheneylew/goutil/utils",
+			"revision": "089b358deb95b08ed6ddc9a12569881a9b0102f2",
+			"revisionTime": "2018-04-08T01:45:47Z"
+		},
+		{
+			"checksumSHA1": "sjQU1nCUcMy9ck2slmyi2dmU0xg=",
+			"path": "github.com/dchest/captcha",
+			"revision": "6a29415a8364ec2971fdc62d9e415ed53fc20410",
+			"revisionTime": "2017-06-22T15:38:21Z"
+		},
+		{
+			"checksumSHA1": "FsX08FYGCGbiN81y42u/7dQ0a8I=",
+			"path": "github.com/jinzhu/now",
+			"revision": "d939ba741945c047cac69c329c5fb0d6b4a06520",
+			"revisionTime": "2017-02-12T11:26:55Z"
+		},
+		{
+			"checksumSHA1": "17pyIRa4+1+bbKXX92qPB7znaPI=",
+			"path": "github.com/maruel/rs",
+			"revision": "2c81c4312fe4ee48bed510bdc37ddd499d2d9e9a",
+			"revisionTime": "2015-09-22T17:15:28Z"
+		},
+		{
+			"checksumSHA1": "gldBfAlGmAlcERJkebFJZcDgxp0=",
+			"path": "github.com/maruel/rs/internal/gf256",
+			"revision": "2c81c4312fe4ee48bed510bdc37ddd499d2d9e9a",
+			"revisionTime": "2015-09-22T17:15:28Z"
+		},
+		{
+			"checksumSHA1": "r5eQHkttko6kxroDEENXbmXKrSs=",
+			"path": "github.com/nfnt/resize",
+			"revision": "891127d8d1b52734debe1b3c3d7e747502b6c366",
+			"revisionTime": "2016-07-24T20:39:20Z"
+		},
+		{
+			"checksumSHA1": "bOUCnFlRuGN/E633R/lFuiWVrkk=",
+			"path": "github.com/robfig/cron",
+			"revision": "2315d5715e36303a941d907f038da7f7c44c773b",
+			"revisionTime": "2017-11-01T20:10:47Z"
+		},
+		{
+			"checksumSHA1": "aJxz9CCOtl+0E3+Babt60uG1UIE=",
+			"path": "github.com/skip2/go-qrcode",
+			"revision": "695fc75a09738f9be56aaa3aecfd7dac28e66b63",
+			"revisionTime": "2017-08-12T16:12:11Z"
+		},
+		{
+			"checksumSHA1": "xkuxp8PnGrQUsIXMiIOCk4U5IGw=",
+			"path": "github.com/skip2/go-qrcode/bitset",
+			"revision": "695fc75a09738f9be56aaa3aecfd7dac28e66b63",
+			"revisionTime": "2017-08-12T16:12:11Z"
+		},
+		{
+			"checksumSHA1": "UtPg/z5chOpfiJvr29Or0oUx1Bs=",
+			"path": "github.com/skip2/go-qrcode/reedsolomon",
+			"revision": "695fc75a09738f9be56aaa3aecfd7dac28e66b63",
+			"revisionTime": "2017-08-12T16:12:11Z"
+		},
+		{
+			"checksumSHA1": "bN/bWewVy6tFrlZKgPrlqYS+S8w=",
+			"path": "github.com/tuotoo/qrcode",
+			"revision": "6cbfb834f9f328f3d3c2e44a50cdcaa330466e4c",
+			"revisionTime": "2017-08-05T14:31:11Z"
+		}
+	],
+	"rootPath": "github.com/cheneylew/gotest"
+}
