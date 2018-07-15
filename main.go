@@ -3,6 +3,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
+	"github.com/cheneylew/goutil/utils"
 )
 
 var DB = make(map[string]string)
@@ -54,6 +55,11 @@ func setupRouter() *gin.Engine {
 		}
 	})
 
+	r.GET("hello", func(context *gin.Context) {
+		utils.JJKPrintln("a")
+	}, func(context *gin.Context) {
+		utils.JJKPrintln("b")
+	})
 	r.GET("/test", func(c *gin.Context) {
 		c.Redirect(http.StatusMovedPermanently, "http://www.google.com/")
 	})
