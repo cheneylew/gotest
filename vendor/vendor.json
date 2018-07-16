@@ -3,6 +3,10 @@
 	"ignore": "test",
 	"package": [
 		{
+			"path": "fetch",
+			"revision": ""
+		},
+		{
 			"checksumSHA1": "ZQJSiJXqf+iSGZaOZT/rxEG/Wf8=",
 			"path": "github.com/Bowery/prompt",
 			"revision": "94b504f42fdd503acc3b3c79ec2b517d90e0de8a",
@@ -433,6 +437,10 @@
 			"path": "gopkg.in/yaml.v2",
 			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
 			"revisionTime": "2018-03-28T19:50:20Z"
+		},
+		{
+			"path": "govendor",
+			"revision": ""
 		}
 	],
 	"rootPath": "github.com/cheneylew/gotest"
