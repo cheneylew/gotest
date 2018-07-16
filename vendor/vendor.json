@@ -135,6 +135,18 @@
 			"revisionTime": "2018-07-12T04:22:25Z"
 		},
 		{
+			"checksumSHA1": "Q5TUogWYWt1JtuJnfFLgFNvPrHs=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "0fd395ab37aefd2d50854f0556a4311dccc6f45a",
+			"revisionTime": "2018-06-25T05:07:53Z"
+		},
+		{
+			"checksumSHA1": "4eelJOSLZoDzLuaJvgilOBVNovU=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "04140366298a54a039076d798123ffa108fff46c",
+			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
 			"checksumSHA1": "FsX08FYGCGbiN81y42u/7dQ0a8I=",
 			"path": "github.com/jinzhu/now",
 			"revision": "d939ba741945c047cac69c329c5fb0d6b4a06520",
