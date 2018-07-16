@@ -1,4 +1,5 @@
 .idea
 gotest
 test.db
-gorm/gorm
+test_gorm/test_gorm
+test_xorm/test_xorm
