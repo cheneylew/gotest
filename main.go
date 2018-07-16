@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "github.com/jinzhu/now"
 
+func main() {
+	now.BeginningOfDay()
 }
